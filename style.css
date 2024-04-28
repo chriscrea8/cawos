@@ -49,11 +49,11 @@ li {
 }
 
 .cover a {
-  color: #232323;
+  color: #ed0f0f;
 }
 
 .cover a:hover {
-  color: #ed0f0f;
+  color: #232323;
 }
 
 .external-wrapper {
