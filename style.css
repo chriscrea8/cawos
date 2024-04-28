@@ -32,6 +32,8 @@ li {
   align-items: center;
   flex-direction: column;
   padding: 10%;
+  text-align: center;
+  overflow-x: hidden;
 }
 
 .cover .logo {
